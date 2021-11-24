@@ -1,6 +1,7 @@
 # pg21-exempel
 
-## Kodexempel från lektionerna
+## Kodexempel från de sista lektionerna
 
-- Varje lektions exempel sparas i en skild _branch_. 
-- Välj branch genom att klicka på branch-menyn på github ![](https://people.arcada.fi/~welandfr/assets/main2.png)
+- Varje lektions exempel sparas i en skild katalog
+- Se skild länk på itslearning för de tidigare lektionerna
+
