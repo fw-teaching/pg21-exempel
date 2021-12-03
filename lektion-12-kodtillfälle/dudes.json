@@ -1,0 +1,17 @@
+[
+    {
+        "name": "G\u00f6ran",
+        "age": 42,
+        "likes": "Python"
+    },
+    {
+        "name": "Linus",
+        "age": 51,
+        "likes": "C"
+    },
+    {
+        "name": "Betty",
+        "age": 100,
+        "likes": "Breakpoints"
+    }
+]
